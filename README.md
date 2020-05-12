@@ -1,2 +1,2 @@
 # pymerge
-Merge together two directories. If there are two files with the same name, merge the contents together. 
+Merge together directories. If there is are files with the same name, merge the contents together. 
